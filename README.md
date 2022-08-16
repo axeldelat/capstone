@@ -1,4 +1,4 @@
-# Capstone project for YOUR NAME HERE
+# Capstone project for AXEL DE LA TORRE
 
 ![Course Hero](images/hero.png)
 
