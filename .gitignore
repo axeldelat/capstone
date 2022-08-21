@@ -2,3 +2,4 @@ venv
 .vscode
 .mypy_cache
 220815COVID19MEXICO.csv
+clasificacion_status.csv
